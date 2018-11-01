@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FollowBot</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_devices_list">Devices_list</string>
+    <string name="choose_device">Choose device</string>
+
+</resources>
